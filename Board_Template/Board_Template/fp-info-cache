@@ -1,4 +1,4 @@
-19669212495630093
+19669221719801787
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56665,96 +56665,96 @@ Yellow 5381 Series LED
 2
 2
 LibsCM4IO
-BarrelJack_Horizontal
-DC Barrel Jack
-Power Jack
-0
-3
-3
-LibsCM4IO
-EDAC 690-019-298-412
-
-
-0
-23
-23
-LibsCM4IO
-Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
-Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-24
-23
-LibsCM4IO
-L_Bourns_SRN6045TA
-http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf
-Semi-shielded Power Inductor
-0
-2
-2
-LibsCM4IO
-MOLEX_USB_67298-4090
-
-
-0
-12
-12
-LibsCM4IO
-PCIex1-36
-
-
-0
-38
-37
-LibsCM4IO
-Raspberry-Pi-4-Compute-Module
-Raspberry Pi 4 Compute Module
-Raspberry Pi 4 Compute Module
-0
-200
-200
-LibsCM4IO
-SDCARD_MOLEX_503398-1892
-
-
-0
-14
-11
-LibsCM4IO
-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias
-SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-23
-9
-LibsCM4IO
-TRJG0926HENL
-https://p.globalsources.com/IMAGES/PDT/SPEC/690/K1160305690.pdf
-RJ45 Magjack
-0
-20
-20
-LibsCM4IO
-USB_Micro-B_EDAC_UCON00686
-Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-USB USB_B USB_micro USB_OTG
-0
-17
-6
-LibsCustom
 10132797-021100LF
 
 
 0
 22
 22
-LibsCustom
+LibsCM4IO
 10132798-022100LF
 
 
 0
 22
 22
+LibsCustom
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
+0
+3
+3
+LibsCustom
+EDAC 690-019-298-412
+
+
+0
+23
+23
+LibsCustom
+Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-22S-0.5SH, 22 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+24
+23
+LibsCustom
+L_Bourns_SRN6045TA
+http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf
+Semi-shielded Power Inductor
+0
+2
+2
+LibsCustom
+MOLEX_USB_67298-4090
+
+
+0
+12
+12
+LibsCustom
+PCIex1-36
+
+
+0
+38
+37
+LibsCustom
+Raspberry-Pi-4-Compute-Module
+Raspberry Pi 4 Compute Module
+Raspberry Pi 4 Compute Module
+0
+200
+200
+LibsCustom
+SDCARD_MOLEX_503398-1892
+
+
+0
+14
+11
+LibsCustom
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias
+SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+23
+9
+LibsCustom
+TRJG0926HENL
+https://p.globalsources.com/IMAGES/PDT/SPEC/690/K1160305690.pdf
+RJ45 Magjack
+0
+20
+20
+LibsCustom
+USB_Micro-B_EDAC_UCON00686
+Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
+USB USB_B USB_micro USB_OTG
+0
+17
+6
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
