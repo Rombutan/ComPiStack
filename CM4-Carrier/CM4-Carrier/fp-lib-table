@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Libs")(type "KiCad")(uri "/home/lucag/Documents/Documents/GitHub/TranSys/CompPiStack/Libs.pretty")(options "")(descr ""))
+  (lib (name "LibsCustom")(type "KiCad")(uri "/home/lucag/Documents/Documents/GitHub/TranSys/CompPiStack/LibsCustom.pretty")(options "")(descr ""))
+  (lib (name "LibsCM4IO")(type "KiCad")(uri "/home/lucag/Documents/Documents/GitHub/TranSys/CompPiStack/LibsCM4IO.pretty")(options "")(descr ""))
+)
